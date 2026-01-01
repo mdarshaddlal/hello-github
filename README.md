@@ -8,4 +8,4 @@ This is my first GitHub repository.
 - Version control
 
 ## Author
-Arshadd
+Md Arshadd Lal
